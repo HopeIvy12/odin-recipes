@@ -1,15 +1,18 @@
     body {
     font-family: "Pacifico", cursive;
-    font-weight: 400;
+    font-weight: lighter;
     font-style: normal;
     background-image: url('images/oldbackgroundnew.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    font-size: 25px;
+    color: rgb(102, 69, 25);
   }
     .titlepage{
         margin: 15%;
         font-size: 35px;
+        
 
     }
         .title{
@@ -19,8 +22,13 @@
         .recipebody{
         text-align: center;
         margin: 3%;
+        list-style-position: inside;
         }
           .Ingredients{
             text-align: left;
             margin: 2%;
           }
+            a:visited{
+              color:  rgb(102, 69, 25);
+              tet
+            }
